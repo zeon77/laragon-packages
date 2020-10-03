@@ -1,2 +1,2 @@
 # laragon-packages
-Standard WAMP packages for using with "Quick add".
+Standard WAMP packages for using with "Menu / Tools / Quick add".
