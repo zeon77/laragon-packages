@@ -1,5 +1,5 @@
 # laragon-packages
-Periodically updated packages.conf file for [Laragon](https://github.com/zeon77/laragon)
+Periodically updated `packages.conf` file for [Laragon](https://github.com/zeon77/laragon)
 
 ## Installation
 1. Install Laragon
